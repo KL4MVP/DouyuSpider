@@ -22,7 +22,7 @@ def is_visible(locator, timeout=5):
 
 # 下载图片
 def DownloadImage(str,url):
-    path = '/Users/keliang/Downloads/LOL'
+    path = ''
     isExist = os.path.exists(path)
     if not isExist:
         os.mkdir(path)
