@@ -1,2 +1,2 @@
-DuyuSpider
+DouyuSpider
 一个爬取斗鱼直播平台的爬虫
